@@ -43,13 +43,17 @@ Pour exécuter cette application localement, suivez ces étapes :
 ## Captures d'écran
 
 ### Écran d'Accueil
-![Screenshot_20240815_193217](https://github.com/user-attachments/assets/51b7d9c8-3c9f-4d45-ac24-d4634dee0a2e)
 
+<img src="![Screenshot_20240815_193217](https://github.com/user-attachments/assets/51b7d9c8-3c9f-4d45-ac24-d4634dee0a2e)" alt="Écran d'Accueil" width="200" />
 ### Écran de Couleur
 
-![Screenshot_20240815_193349](https://github.com/user-attachments/assets/c4dbc920-c5aa-4e0d-a83b-e35db39a45d2)![Screenshot_20240815_193318](https://github.com/user-attachments/assets/e8d145dd-7d65-48d3-abb2-53b12b68d112)![Screenshot_20240815_193253](https://github.com/user-attachments/assets/7875cec9-1a6a-484b-8614-fbb0ca9ae91b)
 
-
+<div style="display: flex;">
+ 
+ <img src="![Screenshot_20240815_193349](https://github.com/user-attachments/assets/c4dbc920-c5aa-4e0d-a83b-e35db39a45d2)" alt="Écran de Couleur" width="200" />
+ <img src="![Screenshot_20240815_193318](https://github.com/user-attachments/assets/e8d145dd-7d65-48d3-abb2-53b12b68d112)" alt="Écran de Couleur" width="200" />
+ <img src="![Screenshot_20240815_193253](https://github.com/user-attachments/assets/7875cec9-1a6a-484b-8614-fbb0ca9ae91b)" alt="Écran de Couleur" width="200" />
+</div>
 ## Contribution
 
 Les contributions sont les bienvenues ! Si vous avez des suggestions d'améliorations ou si vous trouvez des bugs, veuillez ouvrir une issue ou soumettre une pull request.
