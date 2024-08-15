@@ -43,6 +43,7 @@ Pour exécuter cette application localement, suivez ces étapes :
 ## Captures d'écran
 
 ### Écran d'Accueil
+ <img src="scsh/1.png" alt="Écran de Couleur" width="200" />
 
 
 ### Écran de Couleur
