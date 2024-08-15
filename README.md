@@ -44,7 +44,7 @@ Pour exécuter cette application localement, suivez ces étapes :
 
 ### Écran d'Accueil
 
-<img src="scsh/1.png" alt="Écran d'Accueil" width="200" />
+
 ### Écran de Couleur
 
 
@@ -54,6 +54,7 @@ Pour exécuter cette application localement, suivez ces étapes :
  <img src="scsh/3.png" alt="Écran de Couleur" width="200" />
  <img src="scsh/4.png" alt="Écran de Couleur" width="200" />
 </div>
+
 ## Contribution
 
 Les contributions sont les bienvenues ! Si vous avez des suggestions d'améliorations ou si vous trouvez des bugs, veuillez ouvrir une issue ou soumettre une pull request.
