@@ -43,14 +43,14 @@ Pour exécuter cette application localement, suivez ces étapes :
 ## Captures d'écran
 
 ### Écran d'Accueil
-![Screenshot de l'écran d'accueil](..%2F..%2FDocuments%2FScreenshot_20240815_193217.png)
-
-### Écran de Couleur
 ![Screenshot_20240815_193217](https://github.com/user-attachments/assets/51b7d9c8-3c9f-4d45-ac24-d4634dee0a2e)
 
-![Screenshot de l'écran de couleur](..%2F..%2FDocuments%2FScreenshot_20240815_193253.png)
-![Autre screenshot de l'écran de couleur](..%2F..%2FDocuments%2FScreenshot_20240815_193318.png)
-![Dernier screenshot de l'écran de couleur](..%2F..%2FDocuments%2FScreenshot_20240815_193349.png)
+### Écran de Couleur
+
+![Screenshot_20240815_193349](https://github.com/user-attachments/assets/c4dbc920-c5aa-4e0d-a83b-e35db39a45d2)
+![Screenshot_20240815_193318](https://github.com/user-attachments/assets/e8d145dd-7d65-48d3-abb2-53b12b68d112)
+![Screenshot_20240815_193253](https://github.com/user-attachments/assets/7875cec9-1a6a-484b-8614-fbb0ca9ae91b)
+
 
 ## Contribution
 
