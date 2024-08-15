@@ -46,6 +46,8 @@ Pour exécuter cette application localement, suivez ces étapes :
 ![Screenshot de l'écran d'accueil](..%2F..%2FDocuments%2FScreenshot_20240815_193217.png)
 
 ### Écran de Couleur
+![Screenshot_20240815_193217](https://github.com/user-attachments/assets/51b7d9c8-3c9f-4d45-ac24-d4634dee0a2e)
+
 ![Screenshot de l'écran de couleur](..%2F..%2FDocuments%2FScreenshot_20240815_193253.png)
 ![Autre screenshot de l'écran de couleur](..%2F..%2FDocuments%2FScreenshot_20240815_193318.png)
 ![Dernier screenshot de l'écran de couleur](..%2F..%2FDocuments%2FScreenshot_20240815_193349.png)
